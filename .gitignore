@@ -1,2 +1,5 @@
 # Sistema Operacional
 .DS_Store
+
+# Dependences
+node_modules
